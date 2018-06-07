@@ -63,8 +63,8 @@
         outline:1px solid #56795e;
     }
     100%{
-        background-color:#222;
-        outline:1px solid #222;
+        background-color:#0d3a58;
+        outline:1px solid #0d3a58;
     }
 }
 .CodeMirror-gutter-elt{
@@ -153,7 +153,7 @@ span.cm-token-highlight:before{
     background-color:#252525 !important
 }
 #-blink-dev-tools ::shadow .editing,#-blink-dev-tools .editing{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     outline:1px solid #89f5a2 !important;
     color:#ccc !important
 }
@@ -227,13 +227,13 @@ span.cm-token-highlight:before{
     color:#fff !important
 }
 .filtered-item-list-dialog input,.dialog input,.filtered-item-list-dialog input:focus,.dialog input:focus{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border:none !important;
     color:#e6e6e6 !important;
     padding:0 5px
 }
 .filtered-item-list-dialog-item{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-top:1px solid #2f2f2f !important;
     border-bottom:1px solid #3c3c3c !important
 }
@@ -251,7 +251,7 @@ span.cm-token-highlight:before{
     color:#89f5a2 !important
 }
 .filtered-item-list-dialog>div.container{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .text-button,[is="text-button"]{
     background:#2f2f2f !important;
@@ -293,13 +293,13 @@ span.cm-token-highlight:before{
 ::shadow .filtered-list-widget .filtered-list-widget-prompt-element{
     box-shadow:none !important;
     color:#ccc !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .filtered-list-widget>div.container{
-    background:#222 !important
+    background:#0d3a58 !important
 }
 ::shadow .filtered-list-widget .filtered-list-widget-item{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-top:1px solid #2f2f2f !important;
     border-bottom:1px solid #3c3c3c !important
 }
@@ -396,13 +396,13 @@ input[type='range']::-webkit-slider-thumb{
     margin:5px 0 15px 10px !important
 }
 .revision-history-drawer .source-code .revision-history-line-separator:nth-child(1){
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .revision-history-drawer .revision-history-line-separator{
     margin-top:4px !important
 }
 .revision-history-drawer .revision-history-line-removed,.revision-history-drawer .revision-history-line-added{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .revision-history-drawer .revision-history-line-removed span:last-child,.revision-history-drawer .revision-history-line-added span:last-child{
     margin-left:2px
@@ -606,7 +606,7 @@ button.overrides-swap:not(:disabled):active{
     color:#89f5a2 !important
 }
 #console-messages,#console-view,#network-views .CodeMirror-lines,#script-view-fallback,.console-view-wrapper,.dialog .fill,.drawer .revision-history-drawer,.help-window-main,.panel .split-view-contents,.panel,.panel-enabler-view,.profiles-sidebar-tree-box,.resource-view .script-view,.sidebar-overlay,.split-view-vertical .sidebar-pane.composite .properties-tree,.styles-section.read-only,.tabbed-pane-content,.tabbed-pane-content.has-no-tabs .timeline-records-title,.timeline-records-list,#timeline-overview-sidebar{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     z-index:0
 }
 .panel-enabler-view{
@@ -664,7 +664,7 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
     background:none !important
 }
 ::shadow ::shadow style+.text-prompt-editing,::shadow style+.text-prompt-editing,.editing{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     outline:1px solid #89f5a2 !important;
     color:#ccc !important
 }
@@ -672,7 +672,7 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
     color:#ccc !important
 }
 ::shadow .editing-sub-part ::shadow .text-prompt-editing ::content *{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     color:#ccc !important
 }
 .material .elements-topbar{
@@ -680,7 +680,7 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
 }
 ::shadow .tree-outline li{
     color:#ccc !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .tree-outline li.odd-row+.children li,::shadow .tree-outline li.odd-row{
     background-color:#272727 !important
@@ -721,7 +721,7 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
 }
 ::shadow .tooltip{
     background:#2a2a2a !important;
-    border:1px solid #222;
+    border:1px solid #0d3a58;
     color:#ccc !important
 }
 ::shadow .tooltip-shortcut{
@@ -1158,7 +1158,7 @@ body/deep/.link{
     outline:1px dashed #888 !important
 }
 .animations-timeline{
-    background:#222 !important;
+    background:#0d3a58 !important;
     color:#ccc !important;
     border-top:2px solid #2a2a2a !important
 }
@@ -1183,7 +1183,7 @@ body/deep/.link{
     box-shadow:inset 0 1px 0 0 rgba(86,121,94,0.5),inset 0 -1px 0 0 rgba(86,121,94,0.5)
 }
 .animations-timeline::shadow .animation-timeline-grid-line{
-    fill:#222 !important
+    fill:#0d3a58 !important
 }
 .animations-timeline::shadow circle.animation-endpoint,.animations-timeline::shadow circle.animation-keyframe-point{
     stroke:#89f5a2 !important;
@@ -1213,7 +1213,7 @@ body/deep/.link{
     background-color:#89f5a2 !important
 }
 .animations-timeline::shadow .animation-buffer-preview.selected>svg>line{
-    stroke:#222 !important
+    stroke:#0d3a58 !important
 }
 .animations-timeline::shadow .animation-playback-label{
     color:#ccc !important;
@@ -1229,7 +1229,7 @@ body/deep/.link{
     color:#ff9635 !important
 }
 .paint-profiler-overview,.paint-profiler-canvas-container canvas,.paint-profiler-view canvas{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .progress-banner{
     background-color:rgba(111,111,111,0.5) !important;
@@ -1267,7 +1267,7 @@ body/deep/.link{
 }
 .timeline-column option{
     color:#ccc !important;
-    background:#222 !important
+    background:#0d3a58 !important
 }
 .image-view .title{
     color:#ccc !important
@@ -1314,7 +1314,7 @@ body/deep/.link{
     line-height:18px
 }
 #network-views .script-view-fallback{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     color:#ccc !important
 }
 .request-headers-view .outline-disclosure .header-count,.request-headers-view .outline-disclosure .header-toggle{
@@ -1341,7 +1341,7 @@ body/deep/.link{
 }
 .network-summary-bar{
     background:#373737 !important;
-    border-top:1px solid #222 !important;
+    border-top:1px solid #0d3a58 !important;
     color:#ccc !important
 }
 .network-summary-bar .summary-blue{
@@ -1375,10 +1375,10 @@ body/deep/.link{
     border-bottom:none !important
 }
 .network-overview-canvas-container{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .network-status-pane{
-    background:#222 !important;
+    background:#0d3a58 !important;
     color:#ccc !important
 }
 ::shadow .filmstrip-dialog-label{
@@ -1388,7 +1388,7 @@ body/deep/.link{
     color:#ccc !important
 }
 ::shadow .flame-chart-entry-info,.profile-entry-info{
-    text-shadow:0 0 1px #222;
+    text-shadow:0 0 1px #0d3a58;
     background-color:rgba(34,34,34,0.9) !important;
     border-radius:4px
 }
@@ -1458,13 +1458,13 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     color:#ccc !important
 }
 .database-user-query{
-    border-top:1px solid #222 !important;
+    border-top:1px solid #0d3a58 !important;
     border-bottom:1px solid #080808 !important;
     padding-bottom:10px !important
 }
 .database-user-query+span{
     padding:2px 0 !important;
-    border-top:1px solid #222 !important;
+    border-top:1px solid #0d3a58 !important;
     border-bottom:1px solid #080808 !important;
     background-color:#272727 !important;
     width:100% !important
@@ -1559,7 +1559,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     background-color:#89f5a2
 }
 ::shadow .help-window-main{
-    background-color:#222;
+    background-color:#0d3a58;
     color:#ccc !important
 }
 ::shadow .help-window-main.widget{
@@ -1612,7 +1612,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     color:#626262 !important
 }
 ::shadow .help-window-main .settings-list-container{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .help-window-main .settings-list{
     border:none !important
@@ -1626,15 +1626,15 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     border-top:none !important
 }
 ::shadow .help-window-main .settings-list-item{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-top:1px solid #2f2f2f !important
 }
 ::shadow .help-window-main .settings-list-item:hover{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-top:1px solid #2f2f2f !important
 }
 ::shadow .help-window-main .settings-list-item.selected{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .help-window-main .settings-list-item:nth-child(1){
     border-top:none !important
@@ -1728,7 +1728,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     box-shadow:none !important
 }
 ::shadow .settings-experiment-hidden label{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .settings-experiment-hidden label .dt-checkbox-text{
     color:#89f5a2 !important
@@ -1816,7 +1816,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     border-color:#3c3c3c !important;
     color:#e6e6e6 !important;
     border:1px solid #3c3c3c;
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-radius:2px;
     padding:4px
 }
@@ -1943,7 +1943,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     border-color:#3c3c3c !important;
     color:#e6e6e6 !important;
     border:1px solid #3c3c3c;
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-radius:2px;
     padding:4px
 }
@@ -1965,7 +1965,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     border:1px solid #3c3c3c !important
 }
 .filtered-item-list-dialog>input[type=text]{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     box-shadow:inset 0 1px 5px 0 rgba(0,0,0,0.3) !important;
     color:#fff !important
 }
@@ -1978,15 +1978,15 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     color:#999 !important
 }
 .source-frame-unsaved-committed-changes{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .source-frame-debugger-script{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .scripts-debug-toolbar{
     background:#444 !important;
     box-shadow:inset 0 1px 0 #565656;
-    border-bottom:1px solid #222 !important
+    border-bottom:1px solid #0d3a58 !important
 }
 .sidebar-pane .breakpoints-list-deactivated{
     background-color:#2f2f2f !important;
@@ -2068,7 +2068,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
 }
 .panel.elements .sidebar-pane-toolbar>select>option,.panel.elements .sidebar-pane-toolbar>select>hr{
     color:#ccc !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .panel.elements .sidebar-pane-toolbar>select.select-settings{
     -webkit-background-position:-24px 0 !important;
@@ -2105,10 +2105,10 @@ input.status-bar-item:hover,input.status-bar-item:focus{
 }
 .alternate-status-bar-buttons-bar .scripts-pause,.alternate-status-bar-buttons-bar .scripts-long-resume,.alternate-status-bar-buttons-bar .status-bar-item{
     background-color:#2f2f2f !important;
-    border:1px solid #222 !important
+    border:1px solid #0d3a58 !important
 }
 .alternate-status-bar-buttons-bar .status-bar-item.emulate-active{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border:1px solid #2f2f2f !important
 }
 .event-listener-breakpoints.properties-tree li{
@@ -2235,7 +2235,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     color:#89f5a2 !important
 }
 .CodeMirror-linewidget #source-frame-breakpoint-condition{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border:none !important;
     height:22px !important
 }
@@ -2294,7 +2294,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
 }
 #timeline-overview-sidebar{
     padding-right:0 !important;
-    border-right:1px solid #222 !important
+    border-right:1px solid #0d3a58 !important
 }
 #timeline-overview-sidebar .sidebar-tree-item:hover{
     border-left:6px solid #484848 !important
@@ -2345,7 +2345,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     background-color:red !important
 }
 #timeline-overview-container{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 #timeline-overview-container canvas{
     background-color:transparent !important
@@ -2369,7 +2369,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     background-color:#2f2f2f !important
 }
 .overview-grid-window{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 #memory-counters-graph{
     border-right:1px solid #2a2a2a !important
@@ -2384,14 +2384,14 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     color:#ccc !important
 }
 .pie-chart-foreground{
-    color:#222
+    color:#0d3a58
 }
 .timeline-progress-pane{
     background-color:rgba(111,111,111,0.5) !important;
     color:#ccc !important
 }
 .timeline-details-view-body{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .timeline-details-view-row{
     border-bottom:1px solid #2f2f2f !important
@@ -2423,23 +2423,23 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     border:1px solid #2f2f2f !important
 }
 #memory-graphs-container>div:last-child{
-    background:#222 !important
+    background:#0d3a58 !important
 }
 .timeline-layers-view>div:last-child,.timeline-layers-view-properties>div:last-child{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .timeline-status-pane{
-    background:#222 !important;
+    background:#0d3a58 !important;
     color:#ccc !important
 }
 .network-film-strip{
     border-bottom:none !important
 }
 #timeline-overview-container .timeline-grid-header{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .timeline-details-view-block{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     box-shadow:none !important
 }
 .timeline-details-chip-title{
@@ -2555,7 +2555,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     background-color:#89f5a2 !important
 }
 .bezier-icon path{
-    stroke:#222 !important
+    stroke:#0d3a58 !important
 }
 ::shadow .bezier-preview-container{
     background:rgba(0,0,0,0) !important
@@ -2602,7 +2602,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     margin-top:1px
 }
 .screencast{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .screencast .screencast-viewport{
     background-color:#3c3c3c;
@@ -2643,7 +2643,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
 ::-webkit-scrollbar,.CodeMirror-scrollbar-filler,.CodeMirror-gutter-filler{
     width:12px !important;
     height:12px !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,.custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal{
     -webkit-box-shadow:inset 1px 5px 6px rgba(0,0,0,0.3) !important
@@ -2687,7 +2687,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
 ::shadow ::-webkit-scrollbar,::shadow .CodeMirror-scrollbar-filler,::shadow .CodeMirror-gutter-filler{
     width:12px !important;
     height:12px !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow ::shadow .custom-popup-horizontal-scroll .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-vertical-scroll .custom-popup-horizontal-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal,::shadow .custom-popup-horizontal-scroll .custom-popup-vertical-scroll ::shadow .custom-popup-horizontal-scroll ::shadow .custom-popup-vertical-scroll ::-webkit-scrollbar-track:horizontal{
     -webkit-box-shadow:inset 1px 5px 6px rgba(0,0,0,0.3) !important
@@ -2733,7 +2733,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     border-bottom:#2f2f2f !important
 }
 ::shadow .security-summary,::shadow .security-main-view{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     color:#ccc !important
 }
 ::shadow .security-summary-lock-spacer{
@@ -2742,10 +2742,10 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
 ::shadow .security-summary-neutral .triangle-pointer,::shadow .security-summary-neutral .security-summary-text{
     background:#ffee91 !important;
     border-color:#fff2aa !important;
-    color:#222 !important
+    color:#0d3a58 !important
 }
 ::shadow .security-explanation{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-bottom:1px solid #2f2f2f !important
 }
 ::shadow .security-explanation-title{
@@ -2906,7 +2906,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     border-radius:2px
 }
 .styles-element-classes-pane{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-bottom:1px solid #2f2f2f !important
 }
 .styles-element-classes-pane .new-class-input{
@@ -2924,7 +2924,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     color:#7b7b7b !important
 }
 .toolbar-gray-toggled::shadow .class-toolbar-item.toggled-on{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .toolbar-gray-toggled::shadow .class-toolbar-item.toggled-on .toolbar-button-text{
     color:#89f5a2 !important
@@ -3024,7 +3024,7 @@ div.ax-computed-name{
     background-color:#2f2f2f
 }
 .toolbar::shadow select.toolbar-item option{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .toolbar::shadow .toolbar-select-arrow{
     position:relative !important;
@@ -3054,11 +3054,11 @@ button.scripts-step-over .glyph .long-click-glyph,button.scripts-step-into .glyp
     color:#89f5a2 !important
 }
 button.scripts-step-over:disabled .glyph,button.scripts-step-into:disabled .glyph,button.scripts-step-out:disabled .glyph{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .sources-status-bar,.panel-status-bar,.resources-status-bar .status-bar,.overrides-footer,.status-bar{
     background:#373737 !important;
-    border-top:1px solid #222 !important;
+    border-top:1px solid #0d3a58 !important;
     color:#ccc !important
 }
 .checkbox-filter-checkbox,label.checkbox,.checkbox-filter-checkbox-check,.filter-checkbox-filter .type,#text-filter-regex+label{
@@ -3098,16 +3098,16 @@ button.scripts-step-over:disabled .glyph,button.scripts-step-into:disabled .glyp
 }
 .resources-toolbar,::shadow .search-toolbar-summary{
     background:#373737 !important;
-    border-top:1px solid #222 !important;
+    border-top:1px solid #0d3a58 !important;
     color:#ccc !important
 }
 .profiles-toolbar{
     background:#373737 !important;
-    border-bottom:1px solid #222 !important
+    border-bottom:1px solid #0d3a58 !important
 }
 #sources-panel-sources-view .sources-toolbar{
     background:#373737 !important;
-    border-top:1px solid #222 !important;
+    border-top:1px solid #0d3a58 !important;
     color:#ccc !important
 }
 html/deep/.component-root{
@@ -3126,7 +3126,7 @@ html/deep/.component-root{
 }
 ::shadow .suggest-box{
     color:#000 !important;
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border:2px rgba(0,0,0,0.2) solid !important;
     box-shadow:0 8px 10px 1px rgba(0,0,0,0.1) !important
 }
@@ -3565,7 +3565,7 @@ html/deep/.component-root{
     color:#e3b959 !important
 }
 .data-grid .data-container tr:nth-child(odd){
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 .data-grid .data-container tr:nth-child(even){
     background-color:#272727 !important
@@ -3580,12 +3580,12 @@ html/deep/.component-root{
 }
 .data-grid .data-container tr .editing *{
     color:#FFF !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .tabbed-pane-header{
     background:#444;
     box-shadow:inset 0 1px 0 #626262;
-    border-bottom:1px solid #222 !important;
+    border-bottom:1px solid #0d3a58 !important;
     border:none
 }
 ::shadow .tabbed-pane-header-tab{
@@ -3620,7 +3620,7 @@ html/deep/.component-root{
     background-color:#999 !important
 }
 ::shadow .tabbed-pane-content{
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .search-drawer-header label.search-config-label{
     color:#ccc !important
@@ -3653,7 +3653,7 @@ html/deep/.component-root{
     border-bottom:none !important
 }
 select.tabbed-pane-header-tabs-drop-down-select{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     color:#ccc !important
 }
 .toolbar .tabbed-pane-header .tabbed-pane-header-tab{
@@ -3725,7 +3725,7 @@ select.tabbed-pane-header-tabs-drop-down-select{
     background-color:#3c3c3c !important
 }
 .tabbed-pane-header-tabs-drop-down>select.drop-down-menu option{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     color:#ccc !important
 }
 .overrides-splash-screen{
@@ -3868,13 +3868,13 @@ body .inspector-view-toolbar.status-bar::shadow .status-bar-item .status-bar-cou
 ::shadow .filtered-list-widget .filtered-list-widget-prompt-element{
     box-shadow:none !important;
     color:#ccc !important;
-    background-color:#222 !important
+    background-color:#0d3a58 !important
 }
 ::shadow .filtered-list-widget>div.container{
-    background:#222 !important
+    background:#0d3a58 !important
 }
 ::shadow .filtered-list-widget .filtered-list-widget-item{
-    background-color:#222 !important;
+    background-color:#0d3a58 !important;
     border-top:1px solid #2f2f2f !important;
     border-bottom:1px solid #3c3c3c !important
 }

@@ -408,7 +408,7 @@ input[type='range']::-webkit-slider-thumb{
     margin-left:2px
 }
 .revision-history-drawer .revision-history-line-removed{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 .revision-history-drawer .revision-history-line-added{
     color:#7eb17e !important
@@ -958,16 +958,16 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
     background-color:#fc844c !important
 }
 #console-messages .console-log-level .console-message-text,#console-messages .console-log-level .console-message-url{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 #console-messages .console-log-level .children div:hover *{
     color:#359ccd !important
 }
 #console-messages .console-log-level .section>.header .title{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 #console-messages .console-log-level .bubble,#console-messages .console-log-level .bubble-repeat-count{
-    background-color:#49a6d2 !important
+    background-color:#ff9d00 !important
 }
 #console-messages .console-warning-level .console-message-text,#console-messages .console-warning-level .console-message-url{
     color:#db0 !important
@@ -982,16 +982,16 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
     background-color:#db0 !important
 }
 #console-messages .console-error-level .console-message-text,#console-messages .console-error-level .console-message-url{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 #console-messages .console-error-level .children div:hover *{
     color:#ff4141 !important
 }
 #console-messages .console-error-level .section>.header .title{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 #console-messages .console-error-level .bubble,#console-messages .console-error-level .bubble-repeat-count{
-    background-color:#ff5a5a !important
+    background-color:#ff9d00 !important
 }
 #console-messages .console-info-level .console-message-text,#console-messages .console-info-level .console-message-url{
     color:#a277ff !important
@@ -1079,7 +1079,7 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
     color:#7c7c7c !important
 }
 .object-value-error{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 .object-value-regexp{
     color:#ff54e8 !important
@@ -1118,7 +1118,7 @@ body.dock-to-right.inactive:not(.undocked):not(.overlay-contents),body.dock-to-r
     color:#7c7c7c !important
 }
 ::shadow .object-value-error{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 ::shadow .shadow-split-widget.vbox>.shadow-split-widget-sidebar:not(.maximized){
     border-top:none !important
@@ -1223,7 +1223,7 @@ body/deep/.link{
     color:#ccc !important
 }
 .monospace::shadow .node-label-name{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 .monospace::shadow .node-label-id,.monospace::shadow .node-label-class,.monospace::shadow .node-label-pseudo{
     color:#ff9635 !important
@@ -1334,7 +1334,7 @@ body/deep/.link{
     border-bottom:none !important
 }
 .data-grid .network-error-row,.data-grid .network-error-row>td,.data-grid .network-error-row .network-cell-subtitle{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 .panel:not(.timeline):not(.audits):not(.profiles):not(.cpu-profiler):not(.css-profiler):not(.heap-profiler):not(.canvas-profiler) table,.network-graph-bar,.network-graph-label,.network-graph-bar-area{
     color:#ccc !important
@@ -1480,7 +1480,7 @@ input.status-bar-item:hover,input.status-bar-item:focus{
     margin-top:-5px !important
 }
 .database-user-query .error{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 .indexed-db-database-view .outline-disclosure .attribute-name{
     color:#626262 !important
@@ -2182,7 +2182,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     color:#77a8c6 !important
 }
 .error-message{
-    color:#ff5a5a !important
+    color:#ff9d00 !important
 }
 .event-listener-tree>li{
     border-top:none !important
@@ -2514,7 +2514,7 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     color:#db0 !important
 }
 .popover .content .popover-details-row-title{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 .popover .content .network-timing-bar{
     background-color:#89f5a2 !important;
@@ -2910,9 +2910,9 @@ body .CodeMirror .CodeMirror-selectedtext:not(.CodeMirror-persist-highlight){
     border-bottom:1px solid #2f2f2f !important
 }
 .styles-element-classes-pane .new-class-input{
-    background-color:#2f2f2f !important;
-    border-color:#3c3c3c !important;
-    color:#e6e6e6 !important
+    background-color: #2f2f2f !important;
+    border-color: #3c3c3c !important;
+    color: #e6e6e6 !important
 }
 .styles-element-classes-pane .new-class-input:disabled{
     opacity:.3 !important
@@ -3194,7 +3194,7 @@ html/deep/.component-root{
     font-style:italic
 }
 .cm-js-def{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 .cm-js-error{
     background:#9d1e15 !important;
@@ -3232,7 +3232,7 @@ html/deep/.component-root{
     color:#f07b3c !important
 }
 .cm-js-tag{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 .cm-js-variable{
     color:#ccc !important
@@ -3321,32 +3321,34 @@ html/deep/.component-root{
     color:#bf4c4c !important
 }
 .cm-xml-string{
-    color:#f0874f !important
+    color:#80ffbb !important
 }
 .cm-xml-tag{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 .cm-xml-attribute{
-    color:#88aed5 !important
+    color:#ffc600 !important
 }
 .cm-xml-link{
     color:#e3b959 !important
 }
 .webkit-html-attribute-name{
-    color:#88aed5 !important
+    color:#ffc600 !important
 }
 .webkit-html-attribute-value{
-    color:#f0874f !important
+    color:#80ffbb !important
 }
 .webkit-html-comment{
-    color:#7c7c7c !important;
-    font-style:italic
+    color:#0088ff !important;
+    font-family:"Operator Mono";
+    font-weight: bold;
+    font-style: italic;
 }
 .webkit-html-resource-link,.webkit-html-external-link{
     color:#e3b959 !important
 }
 .webkit-html-tag,.webkit-html-tag-name,.webkit-html-close-tag-name{
-    color:#49a6d2 !important
+    color:#8dffff !important
 }
 .webkit-html-text-node,.webkit-html-css-node,.webkit-html-js-node{
     color:#c2c3c3 !important
@@ -3374,7 +3376,7 @@ html/deep/.component-root{
     font-style:italic
 }
 ::shadow .cm-js-def{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 ::shadow .cm-js-error{
     background:#9d1e15 !important;
@@ -3412,7 +3414,7 @@ html/deep/.component-root{
     color:#f07b3c !important
 }
 ::shadow .cm-js-tag{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 ::shadow .cm-js-variable{
     color:#ccc !important
@@ -3501,22 +3503,22 @@ html/deep/.component-root{
     color:#bf4c4c !important
 }
 ::shadow .cm-xml-string{
-    color:#f0874f !important
+    color:#80ffbb !important
 }
 ::shadow .cm-xml-tag{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 ::shadow .cm-xml-attribute{
-    color:#88aed5 !important
+    color:#ffc600 !important
 }
 ::shadow .cm-xml-link{
     color:#e3b959 !important
 }
 ::shadow .webkit-html-attribute-name{
-    color:#88aed5 !important
+    color:#ffc600 !important
 }
 ::shadow .webkit-html-attribute-value{
-    color:#f0874f !important
+    color:#80ffbb !important
 }
 ::shadow .webkit-html-comment{
     color:#7c7c7c !important;
@@ -3526,7 +3528,7 @@ html/deep/.component-root{
     color:#e3b959 !important
 }
 ::shadow .webkit-html-tag,::shadow .webkit-html-tag-name,::shadow .webkit-html-close-tag-name{
-    color:#49a6d2 !important
+    color:#ff9d00 !important
 }
 ::shadow .webkit-html-text-node,::shadow .webkit-html-css-node,::shadow .webkit-html-js-node{
     color:#c2c3c3 !important
@@ -3704,7 +3706,7 @@ select.tabbed-pane-header-tabs-drop-down-select{
     background:#484848 !important
 }
 .filter-bitset-filter li.selected.error{
-    background:#ff5a5a !important
+    background:#ff9d00 !important
 }
 .filter-bitset-filter li.selected.warning{
     background:#db0 !important
@@ -3713,7 +3715,7 @@ select.tabbed-pane-header-tabs-drop-down-select{
     background:#a277ff !important
 }
 .filter-bitset-filter li.selected.log{
-    background:#49a6d2 !important
+    background:#ff9d00 !important
 }
 .filter-bitset-filter li.selected.debug{
     background:#fc844c !important
